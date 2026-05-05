@@ -11,7 +11,7 @@ Radar de Servicios es una plataforma que conecta a personas con problemas técni
 
 ### Para Profesionales (Expertos)
 1. **Mapa de Ofertas:** Visualizás trabajos activos en tu barrio vía Google Maps.
-2. **Postulación:** Te postulás a las ofertas que te interesan.
+2. **Postulación:** Te postulas a las ofertas que te interesan.
 3. **Conexión:** Una vez aceptado por el cliente, habilitás un chat exclusivo para cerrar el trato.
 
 ## 💳 Modelo de Negocio (Profesionales)
