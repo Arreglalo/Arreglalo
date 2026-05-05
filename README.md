@@ -1,4 +1,4 @@
-# 🛠️ Radar de Servicios: Marketplace Doméstico
+# 🛠️ Radar de Servicios domésticos
 
 Radar de Servicios es una plataforma que conecta a personas con problemas técnicos en el hogar con profesionales locales mediante geolocalización en tiempo real.
 
